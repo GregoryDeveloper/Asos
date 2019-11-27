@@ -1,0 +1,16 @@
+
+.vs/
+
+App/bin/
+
+App/obj/
+
+Consumer/bin/
+
+Consumer/obj/
+
+UnitTest/bin/
+
+UnitTest/obj/
+
+packages/
